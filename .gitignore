@@ -1,0 +1,6 @@
+# LVGL 源码与构建产物
+/vendor/
+lvgl_demo
+demo_host
+*.ppm
+*.o
