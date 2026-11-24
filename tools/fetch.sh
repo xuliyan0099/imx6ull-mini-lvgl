@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# 拉 LVGL v9.6.0 到 src/lvgl。
+# 拉 LVGL v9.6.0 到 vendor/lvgl（与 app 自身的 src/ 区分开）。
 #   bash tools/fetch.sh
 # 环境变量：IM6_SRC / IM6_LV_URL / IM6_FORCE=1
 set -euo pipefail
